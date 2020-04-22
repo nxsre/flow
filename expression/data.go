@@ -8,7 +8,7 @@ import (
 
 	"github.com/pkg/errors"
 
-	"qlang.io/spec"
+	"github.com/qiniu/qlang/spec"
 )
 
 // OutData 输出数据

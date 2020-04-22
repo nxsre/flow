@@ -8,7 +8,7 @@ import (
 
 	"github.com/antlinker/flow/expression"
 
-	"qlang.io/cl/qlang"
+	"github.com/qiniu/qlang"
 )
 
 // execDB 从ctx获取数据库
