@@ -1,8 +1,8 @@
 package register
 
 import (
-	"github.com/antlinker/flow/schema"
-	"github.com/antlinker/flow/service/db"
+	"github.com/nxsre/flow/schema"
+	"github.com/nxsre/flow/service/db"
 )
 
 // FlowDBMap 注册流程相关的数据库映射

@@ -4,9 +4,9 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/antlinker/flow"
-	"github.com/antlinker/flow/service/db"
 	_ "github.com/go-sql-driver/mysql"
+	"github.com/nxsre/flow"
+	"github.com/nxsre/flow/service/db"
 )
 
 func init() {

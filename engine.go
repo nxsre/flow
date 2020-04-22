@@ -12,12 +12,12 @@ import (
 	"sync"
 	"time"
 
-	"github.com/antlinker/flow/bll"
-	"github.com/antlinker/flow/register"
-	"github.com/antlinker/flow/schema"
-	"github.com/antlinker/flow/service/db"
-	"github.com/antlinker/flow/util"
 	"github.com/facebookgo/inject"
+	"github.com/nxsre/flow/bll"
+	"github.com/nxsre/flow/register"
+	"github.com/nxsre/flow/schema"
+	"github.com/nxsre/flow/service/db"
+	"github.com/nxsre/flow/util"
 	"github.com/pkg/errors"
 )
 

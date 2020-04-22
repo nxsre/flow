@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/antlinker/flow/expression"
+	"github.com/nxsre/flow/expression"
 
 	"github.com/qiniu/qlang"
 )

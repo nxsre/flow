@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/antlinker/flow/expression"
+	"github.com/nxsre/flow/expression"
 )
 
 func TestMain(m *testing.M) {
